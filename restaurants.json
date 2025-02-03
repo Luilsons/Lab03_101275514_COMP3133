@@ -1,0 +1,26 @@
+[
+    {
+        "restaurant_id": "408980000",
+        "name": "Sal’s Deli",
+        "cuisines": "Delicatessen",
+        "city": "Brooklyn"
+    },
+    {
+        "restaurant_id": "40898554",
+        "name": "Big Tony’s Sandwich Buffet",
+        "cuisines": "Delicatessen",
+        "city": "Queens"
+    },
+    {
+        "restaurant_id": "40899022",
+        "name": "Luigi’s Italian Bistro",
+        "cuisines": "Italian",
+        "city": "Manhattan"
+    },
+    {
+        "restaurant_id": "40900111",
+        "name": "Sakura Sushi",
+        "cuisines": "Japanese",
+        "city": "Brooklyn"
+    }
+]
